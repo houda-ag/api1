@@ -1,0 +1,16 @@
+[{
+			"partenaire": 2000011201,
+			"nat_prod": "electromenager",
+			"origine": "LOCAL",
+			"mnt_hors_tva": 1000000000,
+			"mnt_tva_non_percu": 10000
+		},
+		{
+			"partenaire": 2000057225,
+			"nat_prod": "meuble",
+			"origine": "IMPORTE",
+			"mnt_hors_tva": 2000000000,
+			"mnt_tva_non_percu": 20000
+		}
+		
+	]
