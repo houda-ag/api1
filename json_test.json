@@ -8,7 +8,7 @@
                         "valide_jusqua" : "20261231",
 			"nif_fournisseur": 2569886321479861,
                         "adres_fournisseur" : "adresse1",
-"factures" : [
+"factures" : 
                 {
                   "num_facture" : 001,
                   "date_facture" : "20231130",
@@ -18,7 +18,7 @@
                   "montant_tva_non_acquittes" : 20000000,
                   "affec_precise_biens" : "affect1"
                 }
-]
+
 		},
 		{
 			"nif": 2569856321475862,
@@ -30,7 +30,7 @@
                         "valide_jusqua" : "20261231",
 			"nif_fournisseur": 2569886321479861,
                         "adres_fournisseur" : "adresse1",
-"factures" : [
+"factures" : 
                 {
                   "num_facture" : 001,
                   "date_facture" : "20231130",
@@ -40,7 +40,7 @@
                   "montant_tva_non_acquittes" : 20000000,
                   "affec_precise_biens" : "affect1"
                 }
-]
+
 		}
 		
 	]
