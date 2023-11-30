@@ -1,16 +1,19 @@
 [{
-			"partenaire": 2000011201,
-			"nat_prod": "electromenager",
-			"origine": "LOCAL",
-			"mnt_hors_tva": 1000000000,
-			"mnt_tva_non_percu": 10000
+			"nif": 2569856321475862,
+			"bp": 2000011201,
+			"num_decision": 001,
+			"montant": 1000000000,
+			"nif_fournisseur": 2569886321479861,
+                        "adres_fournisseur" : "adresse1"
+
 		},
 		{
-			"partenaire": 2000057225,
-			"nat_prod": "meuble",
-			"origine": "IMPORTE",
-			"mnt_hors_tva": 2000000000,
-			"mnt_tva_non_percu": 20000
+			"nif": 2569856321475862,
+			"bp": 2000011201,
+			"num_decision": 002,
+			"montant": 1000000000,
+			"nif_fournisseur": 2569886321479861,
+                        "adres_fournisseur" : "adresse1"
 		}
 		
 	]
