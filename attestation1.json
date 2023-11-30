@@ -1,18 +1,18 @@
 [{
-			"nif": 2569856321475862,
-			"bp": 2000011201,
-			"num_decision": 001,
-			"montant": 1000000000,
-			"nif_fournisseur": 2569886321479861,
+			"nif": 25,
+			"bp": 20,
+			"num_decision": 1,
+			"montant": 10,
+			"nif_fournisseur": 25,
                         "adres_fournisseur" : "adresse1"
 
 		},
 		{
-			"nif": 2569856321475862,
-			"bp": 2000011201,
-			"num_decision": 002,
-			"montant": 1000000000,
-			"nif_fournisseur": 2569886321479861,
+			"nif": 25,
+			"bp": 20,
+			"num_decision": 2,
+			"montant": 10,
+			"nif_fournisseur": 25,
                         "adres_fournisseur" : "adresse1"
 		}
 		
